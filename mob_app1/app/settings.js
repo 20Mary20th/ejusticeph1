@@ -56,7 +56,7 @@ drupalgap.settings.mode = 'hello_world';
 drupalgap.settings.title = 'DrupalGap';
  
 // App Front Page
-drupalgap.settings.front = 'dashboard';
+drupalgap.settings.front = 'hello_world';
 
 // Theme
 drupalgap.settings.theme = 'easystreet3';
