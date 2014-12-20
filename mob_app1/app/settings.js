@@ -46,7 +46,7 @@ Drupal.settings.cache.views.expiration = 3600;
 // DrupalGap Mode (defaults to 'phonegap')
 //  'phonegap' - use this mode to build a mobile application with phonegap
 //  'web-app' - use this mode to build a web application for a browser window
-drupalgap.settings.mode = 'phonegap';
+drupalgap.settings.mode = 'hello_world';
 
 /*************|
  * Appearance |
@@ -96,7 +96,7 @@ drupalgap.settings.loader = {
 
 /** Custom Modules - www/app/modules/custom **/
 
-//Drupal.modules.custom['my_module'] = {};
+Drupal.modules.custom['my_module'] = {};
 
 /***************************************|
  * Menus - http://drupalgap.org/node/85 |
